@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @vando
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-vando/vando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in DevOps, Home-Automation / IoT, Hamradio & Security
+- 🕹️  My favorite videogames genres are Metroidvania and Collectathon -- be friends in [Steam](https://steamcommunity.com/id/facundobianco/)
+- 📬 You can reach me at Freenode with `/msg vando ping`
+- 📓 And I write notes in [Medium](https://medium.com/@vando)
