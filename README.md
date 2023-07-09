@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vando
+- 👋 Hi, I’m @facundobianco (Facundo Bianco)
 - 👀 I’m interested in DevOps, Home-Automation / IoT, Hamradio & Security
-- 🕹️  My favorite videogames genres are Metroidvania and Collectathon -- be friends in [Steam](https://steamcommunity.com/id/facundobianco/)
-- 📬 You can reach me at Freenode with `/msg vando ping`
-- 📓 And I write notes in [Medium](https://medium.com/@vando)
+- 🕹️ My favorite videogames genres are Metroidvania and Collectathon -- be friends in [Steam](https://steamcommunity.com/id/facundobianco/)
+- 📬 You can reach me at [Discord](https://discordapp.com/channels/@facundobianco)
+- 📓 And I write thoughts & tech tips in [Medium](https://medium.com/@facundobianco)
