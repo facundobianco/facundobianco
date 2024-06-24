@@ -1,2 +1,2 @@
 - 👋 Hi, I'm Facundo Bianco (@facundobianco)
-- 👀 You will find my personal details on [facundobianco.github.io](https://facundobianco.github.io)
+- 👀 You will find more details on [bianco.site](https://bianco.site)
