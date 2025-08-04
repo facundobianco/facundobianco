@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Facundo
 
-👨‍💻 I have proven expertise in DevOps automation, AI, and Cloud Infrastructure.
+👨‍💻 I have proven expertise in DevOps automation, AI, and Cloud Infrastructure.<br/>
 🎓 I hold an Associate's degree in Industrial Automation.
 
 ## A few highlits
 
 - I'm from Buenos Aires, Argentina 📍
-- I'm currently working as DevOps Lead at @MuttData 💻
+- I'm currently working as DevOps Lead at [@MuttData(https://github.com/MuttData)] 💻
 - I never stop learning and testing my knowledge by building small projects 📖
 - You can find more details on my LinkedIn profilre: [@facundobianco](https://www.linkedin.com/in/facundobianco/) 👀
 - My personal website is [bianco.site](https://bianco.site) 🌐
-- You can find my code on my GitHub account: @facundobianco 🔧
+- You can find my code on my GitHub account: [@facundobianco](https://github.com/facundobianco?tab=repositories) 🔧
 
 ## About
 
