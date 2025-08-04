@@ -6,7 +6,7 @@
 ## A few highlits
 
 - I'm from Buenos Aires, Argentina 📍
-- I'm currently working as DevOps Lead at [@MuttData(https://github.com/MuttData)] 💻
+- I'm currently working as DevOps Lead at [@MuttData](https://github.com/MuttData) 💻
 - I never stop learning and testing my knowledge by building small projects 📖
 - You can find more details on my LinkedIn profilre: [@facundobianco](https://www.linkedin.com/in/facundobianco/) 👀
 - My personal website is [bianco.site](https://bianco.site) 🌐
